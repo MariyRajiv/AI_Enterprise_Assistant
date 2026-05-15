@@ -1,0 +1,4183 @@
+[
+    {
+  "name": "Dr. D. Rajeswara Rao",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (JNTU Hyderabad, 2018)",
+      "M.Tech (JNTU Kakinada, 2003)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 24,
+    "current_organization_years": 7
+  },
+
+  "experience_summary": "24 years total experience, 7 years at current organization",
+  "designation": "Professor & Head - CSE, Dean (IR, T&P)",
+  "email": "hodcse@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Machine Learning",
+    "Soft Computing",
+    "Data Mining"
+  ],
+
+  "courses_taught": [
+      "Agile Software Development",
+      "Artificial Neural Networks",
+      "Data Mining and Warehousing",
+      "Deep Learning",
+      "Machine Learning",
+      "Soft Computing",
+      "C Programming",
+      "C++ Programming",
+      "Database Systems",
+      "Distributed Systems",
+      "Internet Technologies",
+      "Java Programming",
+      "Object Oriented Analysis and Design",
+      "Operating Systems",
+      "Software Engineering"
+  ],
+
+  "past_experience": [
+    {
+      "role": "Professor",
+      "organization": "Koneru Lakshmaiah Education Foundation",
+      "from": 2012,
+      "To": 2019
+    }
+  ]
+},
+    {
+  "name": "Dr. K. Srinivas",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Nagarjuna University, 2010)",
+      "M.Tech (JNTU Kakinada, 2010)",
+      "MCA (Andhra University, 1995)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 30,
+    "current_organization_years": 16
+  },
+
+  "experience_summary": "30 years total experience, 16 years at current organization",
+
+  "designation": "Professor",
+
+  "email": "vrdrks@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Data Analytics",
+    "Bioinformatics",
+    "Video Analytics",
+    "Image Processing",
+    "IoT"
+  ],
+
+  "courses_taught": [
+      "Database Management Systems",
+      "Data Mining",
+      "Big Data Analytics",
+      "Design and Analysis of Algorithms",
+      "Computer Graphics",
+      "Computer Networks",
+      "Computer Organization",
+      "Compiler Design",
+      "Bioinformatics",
+      "Deep Learning",
+      "Machine Learning",
+      "Object Oriented Programming through C++",
+      "Data Structures",
+      "Operating Systems",
+      "Embedded Systems",
+      "C Programming",
+      "C++ Programming",
+      "Java Programming"
+    ],
+  "roles": [
+    {
+      "role": "Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2010",
+      "to": "Present"
+    }
+    
+  ],
+
+  "past_experience": [
+    {
+      "role": "Associate Professor",
+      "organization": "PYDHA College, Visakhapatnam",
+      "from": 2006,
+      "to" : 2010
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "S.V.K.P & Dr. K.S. Raju Arts & Science College",
+      "from": 2001,
+      "to" : 2006
+    },
+    {
+      "role": "Head, Department of MCA",
+      "organization": "Sri Y.N. College",
+      "from": 1996,
+      "to" : 2001
+    }
+  ]
+},
+    {
+  "name": "Dr. Koneru Suvarna Vani",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "Post Doctoral Fellowship (Artificial Intelligence Laboratory, Ton Duc Thang University, 2023)",
+      "PhD (University of Hyderabad, 2014)",
+      "M.Tech (JNTU Anantapur, 2006)",
+      "B.E (Madras University, 1999)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 27,
+    "current_organization_years": 27
+  },
+
+  "experience_summary": "27 years total experience, 27 years at current organization",
+
+  "designation": "Professor",
+
+  "email": "suvarnavanik@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Bioinformatics",
+    "Machine Learning",
+    "GIS"
+  ],
+
+  "courses_taught":[
+      "Data Structures and Algorithms",
+      "Bioinformatics",
+      "Algorithms for Bioinformatics",
+      "Data Structures",
+      "Advanced Data Structures",
+      "Design and Analysis of Algorithms",
+      "Theory of Computation",
+      "Data Analytics",
+      "Fundamentals of C Programming"
+    ],
+
+  "roles": [
+    {
+      "role": "Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2015",
+      "to": "Present"
+    },
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2007",
+      "to": "2015"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "1999",
+      "to": "2007"
+    }
+  ],
+
+  "past_experience": []
+},
+    {
+  "name": "Dr. Ch. Rupa",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "Post Doctoral Fellowship (Blockchain Technology, University of Lincoln, Malaysia, 2021)",
+      "PhD (Andhra University, 2011)",
+      "M.Tech (Andhra University, 2005)",
+      "B.Tech (JNTU Hyderabad, 2002)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 21,
+    "current_organization_years": 12
+  },
+
+  "experience_summary": "21 years total experience, 12 years at current organization",
+
+  "designation": "Professor",
+
+  "email": [
+    "rupamtech@gmail.com",
+    "drchrupa@vrsiddhartha.ac.in"
+  ],
+
+  "areas_of_interest": [
+    "Information Security",
+    "Blockchain Technology",
+    "AI-based Application Security"
+  ],
+
+  "courses_taught": [
+    "Cryptography and Network Security",
+    "Cyber Security",
+    "Compiler Design",
+    "Computer Networks",
+    "Data Structures"
+  ],
+
+  "roles": [
+    {
+      "role": "Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2016",
+      "to": "Present"
+    }, 
+   {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2014",
+      "to": "2016"
+    }
+  ],
+
+  "past_experience": [
+    
+    {
+      "role": "Associate Professor",
+      "organization": "VVIT",
+      "from": "2010",
+      "to": "2014"
+     
+    },
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Gayatri Vidya Parishad Engineering College",
+      "from": "2009",
+      "to": "2010"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "GITAM University",
+      "from": "2005",
+      "to": "2009"
+    }
+  ]
+},
+   {
+  "name": "Dr. Mohammed Ismail B",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (JNTU Anantapur, 2017)",
+      "M.Tech (JNTU Hyderabad, 2010)",
+      "B.Tech (Information Technology, VTU Belgaum, 2002)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 21,
+    "current_organization_years": 1
+  },
+
+  "experience_summary": "21 years total experience, 1 year at current organization",
+
+  "designation": "Professor",
+
+  "email": "drismail@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Computer Vision",
+    "Machine Learning",
+    "IoT",
+    "Cyber Security"
+  ],
+
+  "courses_taught": [
+    "System Software and Operating Systems",
+    "Software Planning and Management",
+    "Data Mining and Data Warehousing",
+    "Network Security and Forensics",
+    "Computer Organization",
+    "C Programming",
+    "Software Engineering",
+    "Machine Learning",
+    "Computer Networks",
+    "Microprocessors and Microcontrollers"
+  ],
+
+  "roles": [
+    {
+      "role": "Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha School of Engineering",
+      "from": "2025",
+      "to": "Present"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Controller of Examinations",
+      "organization": "Kannur University, Kerala",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "role": "Professor",
+      "organization": "P.A College of Engineering, Mangalore",
+      "from": "2022",
+      "to": "2025"
+    },
+    {
+      "role": "Associate Professor",
+      "organization": "Kannur University, Kerala",
+      "from": "2020",
+      "to": "2022"
+    },
+    {
+      "role": "Professor",
+      "organization": "KLEF Deemed to be University, Guntur",
+      "from": "2017",
+      "to": "2020"
+    },
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Muffakham Jah College of Engineering and Technology, Hyderabad",
+      "from": "2010",
+      "to": "2017"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Muffakham Jah College of Engineering and Technology, Hyderabad",
+      "from": "2006",
+      "to": "2010"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Al Habeeb College",
+      "from": "2005",
+      "to": "2006"
+    }
+  ]
+},
+   {
+  "name": "Dr. G. Anuradha",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Andhra University, 2016)",
+      "M.Tech (Computer Science and Engineering, Andhra University)",
+      "B.Tech (Computer Science and Engineering, Andhra University)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 21,
+    "current_organization_years": 9
+  },
+
+  "experience_summary": "21 years total experience, 9 years at current organization",
+
+  "designation": "Professor",
+
+  "email": "ganuradha@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Data Mining",
+    "Machine Learning"
+  ],
+
+  "courses_taught": [
+    "Data Analytics",
+    "Information Retrieval Systems",
+    "M-Commerce",
+    "Compiler Design",
+    "Web Technologies",
+    "Data Warehousing and Data Mining"
+  ],
+
+  "roles": [
+    {
+      "role": "Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2017",
+      "to": "2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Associate Professor",
+      "organization": "GMR Institute of Technology, Rajam",
+      "from": "2010",
+      "to": "2017"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "GMR Institute of Technology, Rajam",
+      "from": "2005",
+      "to": "2010"
+    }
+  ]
+},
+    {
+  "name": "Mr.S.Ravi Kishan",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "M.Tech",
+    "degrees": [
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2007)",
+      "B.Tech (Computer Science and Engineering, Madras University, 1997)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 27,
+    "current_organization_years": 27
+  },
+
+  "experience_summary": "27 years total experience, 27 years at current organization",
+
+  "designation": "Associate Professor",
+
+  "email": "suraki@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Data Analytics",
+    "Web Designing"
+  ],
+
+  "courses_taught": [
+    "Compiler Design",
+    "Web Technologies",
+    "M-Commerce",
+    "Database Management Systems",
+    "Computer Networks"
+  ],
+
+  "roles": [
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2007",
+      "to": "Present"
+    },
+    {
+      "role": "Lecturer",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "1999",
+      "to": "2007"
+    }
+  ],
+
+  "past_experience": []
+},
+    {
+  "name": "Dr. P. Ramesh Kumar",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, Alagappa University, 2018)",
+      "M.Tech (Computer Science and Engineering, Sathyabama Institute of Science & Technology, 2007)",
+      "B.Tech (Computer Science and Engineering, Pondicherry University, 2004)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 22,
+    "current_organization_years": 22
+  },
+
+  "experience_summary": "22 years total experience, 22 years at current organization",
+
+  "designation": "Associate Professor",
+
+  "email": "rameshkumar@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Edge AI",
+    "Edge Computing",
+    "Tiny Machine Learning",
+    "Deep Learning",
+    "Ear Biometrics",
+    "Image and Video Processing",
+    "Computer Vision",
+    "Internet of Things"
+  ],
+
+  "courses_taught": [
+    "Programming for Games (AR/VR)",
+    "Python Programming",
+    "Internet of Things",
+    "Advanced Internet of Things (AIoT)",
+    "Intellectual Property Rights",
+    "Digital Image Processing",
+    "Pattern Recognition",
+    "Microprocessor and Microcontroller",
+    "Operating Systems",
+    "Software Engineering",
+    "Object Oriented Analysis and Design",
+    "Computer Organization",
+    "Advanced Computer Architecture",
+    "IoT Lab",
+    "CASE Tools Lab",
+    "MPMC Interfacing Lab"
+  ],
+
+  "roles": [
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2023",
+      "to": "Present"
+    },
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2009",
+      "to": "2022"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2004",
+      "to": "2008"
+    }
+  ],
+
+  "past_experience": []
+},
+    {
+  "name": "Dr.K.Praveen",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, Acharya Nagarjuna University, Thesis Submitted)",
+      "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, 2009)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 27,
+    "current_organization_years": 27
+  },
+
+  "experience_summary": "27 years total experience, 27 years at current organization",
+
+  "designation": "Senior Assistant Professor",
+
+  "email": "praveen@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Network Security",
+    "Cloud Computing",
+    "Machine Learning",
+    "Geographic Information Systems",
+    "Bioinformatics"
+  ],
+
+  "courses_taught": [
+    "C Programming",
+    "Web Technologies",
+    "Cryptography and Network Security",
+    "Cloud Computing"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2010",
+      "to": "Present"
+    },
+    {
+      "role": "System Analyst",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "1999",
+      "to": "2010"
+    }
+  ],
+
+  "past_experience": []
+},
+    {
+  "name": "Dr.M.Sobhana",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, Krishna University, 2018)",
+      "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, 2010)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 19,
+    "current_organization_years": 7
+  },
+
+  "experience_summary": "19 years total experience, 7 years at current organization",
+
+  "designation": "Associate Professor",
+
+  "email": "sobhana@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Machine Learning",
+    "Data Analytics",
+    "Artificial Intelligence",
+    "Remote Sensing",
+    "Healthcare Applications",
+    "Software Engineering"
+  ],
+
+  "courses_taught": [
+    "Artificial Intelligence",
+    "Big Data Analytics",
+    "Data Mining and Data Warehousing",
+    "User Interface Design",
+    "Design and Analysis of Algorithms"
+  ],
+
+  "roles": [
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2023",
+      "to": "Present"
+    },
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2019",
+      "to": "2023"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "P. B. Siddhartha College of Arts and Science",
+      "from": "2007",
+      "to": "2019"
+    }
+  ]
+},
+    {
+  "name": "Dr.K.Gunasekaran",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, Anna University, 2019)",
+      "M.Tech (Software Engineering, Bharathidasan University, 2008)",
+      "B.Tech (Information Technology, Anna University, 2005)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 6,
+    "current_organization_years": 2
+  },
+
+  "experience_summary": "6 years total experience, 2 years at current organization",
+
+  "designation": "Associate Professor",
+
+  "email": [
+    "drgunasekaran@vrsiddhartha.ac.in",
+    "drgunak@yahoo.com"
+  ],
+
+  "areas_of_interest": [
+    "Machine Learning",
+    "Image Processing",
+    "Biometrics"
+  ],
+
+  "courses_taught": [
+    "Incident Response and Threat Intelligence",
+    "Advanced Data Structures",
+    "Wireless Sensor Networks",
+    "Mobile Ad Hoc Networks",
+    "Machine Learning",
+    "Computer Networks",
+    "Software Engineering",
+    "Operating Systems",
+    "Scripting Languages",
+    "Natural Language Processing",
+    "Artificial Intelligence"
+  ],
+
+  "roles": [
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2024",
+      "to": "Present"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Associate Professor",
+      "organization": "Sri Indu College of Engineering and Technology, Hyderabad",
+      "from": "2021",
+      "to": "2024"
+    },
+    {
+      "role": "Associate Professor",
+      "organization": "Roever Engineering College, Perambalur",
+      "from": "2020",
+      "to": "2021"
+    }
+  ]
+},
+    {
+  "name": "Dr. Shaik Khaja Mohiddin",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, Acharya Nagarjuna University, 2020)",
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2010)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 21,
+    "current_organization_years": 1
+  },
+
+  "experience_summary": "21 years total experience, 1 year at current organization",
+
+  "designation": "Associate Professor",
+
+  "email": "mail2mohiddin@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Cloud Computing",
+    "Quantum Computing",
+    "Cloud Forensics",
+    "Artificial Intelligence",
+    "Blockchain"
+  ],
+
+  "courses_taught": [
+    "Operating Systems",
+    "Cloud Computing",
+    "Information Security",
+    "Cryptography and Network Security",
+    "Parallel Algorithms",
+    "C Programming",
+    "Computer Graphics",
+    "Computer Networks",
+    "Network Management Systems",
+    "Neural Networks",
+    "Artificial Neural Networks",
+    "Information Retrieval Systems",
+    "Embedded Systems",
+    "Data Structures",
+    "Software Engineering",
+    "Interactive Computer Graphics",
+    "Statistics with R",
+    "Mobile Computing",
+    "Artificial Intelligence",
+    "Advanced Operating Systems",
+    "Cloud Computing"
+  ],
+
+  "roles": [
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Associate Professor",
+      "organization": "KL Deemed to be University, Guntur",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "role": "Professor",
+      "organization": "Vasireddy Venkatadri Institute of Technology, Guntur",
+      "from": "2020",
+      "to": "2023"
+    },
+    {
+      "role": "Associate Professor",
+      "organization": "Vasireddy Venkatadri Institute of Technology, Guntur",
+      "from": "2017",
+      "to": "2020"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Vasireddy Venkatadri Institute of Technology, Guntur",
+      "from": "2011",
+      "to": "2017"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Nimra College of Engineering and Technology, Vijayawada",
+      "from": "2007",
+      "to": "2008"
+    },
+    {
+      "role": "Lecturer",
+      "organization": "Akkineni Nageswara Rao College, Gudivada",
+      "from": "2005",
+      "to": "2007"
+    }
+  ]
+},
+    {
+  "name": "Dr. G. Kranthi Kumar",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, Acharya Nagarjuna University, 2020)",
+      "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, 2005)",
+      "B.Tech (Computer Science and Engineering, Karnataka University, Dharwad, 2002)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 21,
+    "current_organization_years": 21
+  },
+
+  "experience_summary": "21 years total experience, 21 years at current organization",
+
+  "designation": "Associate Professor",
+
+  "email": "kranthi@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Image Processing"
+  ],
+
+  "courses_taught": [
+    "Computer Networks",
+    "Artificial Intelligence",
+    "Software Engineering",
+    "Software Testing Methodologies",
+    "Advanced Software Engineering",
+    "Microprocessor and Microcontrollers",
+    "Embedded Systems",
+    "Digital Logic Design",
+    "E-Commerce",
+    "Multimedia Systems",
+    "Embedded Computing Systems",
+    "Advanced Computer Architecture"
+  ],
+
+  "roles": [
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Sr. Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2009",
+      "to": "2025"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2005",
+      "to": "2009"
+    }
+  ],
+
+  "past_experience": []
+},
+    {
+  "name": "Dr. Sailaja",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, Andhra University, Vishakapatnam, 2020)",
+      "M.Tech (Computer Science and Engineering, Jawaharlal Nehru Technological University, Kakinada, 2009)",
+      "B.Tech (Computer Science and Engineering, Nagarjuna University, Guntur, 2004)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 21,
+    "current_organization_years": 21
+  },
+
+  "experience_summary": "21 years total experience, 21 years at current organization",
+
+  "designation": "Associate Professor",
+
+  "email": "sailajak@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Image Processing",
+    "Computer Vision",
+    "Remote Sensing"
+  ],
+
+  "courses_taught": [
+    "Digital Logic Design",
+    "Computer Organization & Architecture",
+    "Microprocessor Interfacing",
+    "Operating Systems",
+    "Computer Networks",
+    "Software Testing Methodologies",
+    "Computer Graphics",
+    "Data Communications"
+  ],
+
+  "roles": [
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Sr. Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2005",
+      "to": "2024"
+    }
+  ],
+
+  "past_experience": []
+},
+
+    {
+  "name": "Dr. N. Sravani",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, VIT University, Vellore, 2024)",
+      "M.E (Computer Science and Engineering, Anna University, Chennai, 2008)",
+      "B.E (Electronics and Communication Engineering, Anna University, Chennai, 2006)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 17,
+    "current_organization_years": 2
+  },
+
+  "experience_summary": "17 years total experience, 2 years at current organization",
+
+  "designation": "Associate Professor",
+
+  "email": "drsravani@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Computer Vision",
+    "Medical Image Analysis",
+    "Deep Learning",
+    "Multimodal Data Fusion",
+    "Healthcare Analytics"
+  ],
+
+  "courses_taught": [
+    "Programming using C",
+    "Data Structures",
+    "Big data Analytics",
+    "Predictive Analytics",
+    "Deep Learning",
+    "Computer Organization",
+    "Digital Logic Design",
+    "Computer Graphics",
+    "Computer Networks",
+    "Python Programming",
+    "Code of Ethics"
+  ],
+
+  "roles": [
+    {
+      "role": "Associate Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "VNR Vignana Jyothi Institute of Engineering and Technology, Hyderabad",
+      "from": "2009",
+      "to": "2022"
+    },
+    {
+      "role": "QA Consultant",
+      "organization": "Zemoso Technologies, Hyderabad",
+      "from": "2022",
+      "to": "2022"
+    }
+  ]
+},
+   {
+  "name": "Dr. Ashutosh Satapathy",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Image Processing and Computer Vision, Vellore Institute of Technology, Vellore, 2022)",
+      "M.Tech (Information Security and Computer Forensics, SRM University, Kattankulathur, 2013)",
+      "B.Tech (Computer Science and Engineering, Biju Patnaik University of Technology, Rourkela, 2011)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 13,
+    "current_organization_years": 7
+  },
+
+  "experience_summary": "13 years total experience, 7 years at current organization",
+
+  "designation": "Assistant Professor (Selection Grade)",
+
+  "email": "ashutosh@vrsiddhartha.ac.in",
+
+  "website": "ashutoshsatapathy.in",
+
+  "areas_of_interest": [
+    "Image Processing",
+    "Computer Vision",
+    "Generative AI"
+  ],
+
+  "courses_taught": [
+    "C Programming",
+    "Object Oriented Programming using Python",
+    "Data Structures",
+    "Design and Analysis of Algorithms",
+    "High Dimensional Data Analysis",
+    "Exploratory Data Analysis",
+    "Computer Graphics",
+    "Business Intelligence and Data Visualization"
+  ],
+
+  "roles": [
+    {
+      "role": "Assistant Professor (Selection Grade)",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2019",
+      "to": "2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Teaching and Research Associate",
+      "organization": "Vellore Institute of Technology, Chennai Campus",
+      "from": "2016",
+      "to": "2018"
+    },
+    {
+      "role": "Research Associate",
+      "organization": "Vellore Institute of Technology, Chennai Campus",
+      "from": "2014",
+      "to": "2016"
+    },
+    {
+      "role": "Lecturer",
+      "organization": "Odisha University of Technology and Research, Bhubaneswar",
+      "from": "2013",
+      "to": "2013"
+    }
+  ]
+},
+    {
+  "name": "Dr.K.Chandrakala",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Retinal Image Enhancement and Lesion Segmentation, National Institute of Technology, Tiruchirappalli, 2025)",
+      "M.Tech (Computer Science and Engineering, University College of Engineering, JNTU, Kakinada, 2012)",
+      "B.Tech (Computer Science and Engineering, JNTUCE (Autonomous), Anantapur, JNTU, Hyderabad, 2007)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 19,
+    "current_organization_years": 2
+  },
+
+  "experience_summary": "19 years total experience, 2 years at current organization",
+
+  "designation": "Assistant Professor (Selection Grade)",
+
+  "email": "chandrakala@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Computer Vision",
+    "Medical Image Processing",
+    "Ophthalmology",
+    "Precision Agriculture"
+  ],
+
+  "courses_taught": [
+    "Machine Learning",
+    "Programming using C",
+    "Big Data Analytics",
+    "Java Programming",
+    "Web Technologies",
+    "Python Programming",
+    "Data Structures",
+    "Deep Learning",
+    "Cloud Computing",
+    "C++ Programming"
+  ],
+
+  "roles": [
+    {
+      "role": "Assistant Professor (Selection Grade)",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Vignans Nirula Institute of Technology and Science for Women, Guntur",
+      "from": "2016",
+      "to": "2024"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Satya Institute of Technology and Management, Vizianagaram",
+      "from": "2013",
+      "to": "2016"
+    },
+    {
+      "role": "System Engineer",
+      "organization": "TATA Consultancy Services",
+      "from": "2007",
+      "to": "2013"
+    }
+  ]
+},
+    {
+  "name": "Dr. Anuradha Chinta",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, Acharya Nagarjuna University, Guntur, 2021)",
+      "M.Tech (Computer Science and Engineering, Jawaharlal Nehru Technological University, Kakinada, 2014)",
+      "B.Tech (Information Technology, Acharya Nagarjuna University, Guntur, 2007)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 19,
+    "current_organization_years": 10
+  },
+
+  "experience_summary": "19 years total experience, 10 year at current organization",
+
+  "designation": "Senior Assistant Professor",
+
+  "email": "anuradha.chinta@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Data Mining"
+  ],
+
+  "courses_taught": [
+    "Design Thinking",
+    "Python",
+    "Data Structures",
+    "Programming in C",
+    "Web Technologies",
+    "Advanced Java",
+    "OOAD",
+    "Unified Modeling Language and Design Patterns"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2016",
+      "to": "2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Vasireddy Venkatadri Institute of Technology, Guntur",
+      "from": "2015",
+      "to": "2016"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "PNCVIET, Phirangipuram, Guntur",
+      "from": "2011",
+      "to": "2012"
+    },
+    {
+      "role": "Software Engineer",
+      "organization": "AEC LOGIC Private Limited, Hyderabad",
+      "from": "2007",
+      "to": "2011"
+    }
+  ]
+},
+    {
+  "name": "Dr.K.Keerthi",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, Koneru Lakshmaiah Education Foundation, Vaddeswaram, Guntur, 2024)",
+      "M.Tech (Computer Science and Engineering, Jawaharlal Nehru Technological University, Kakinada, 2012)",
+      "B.Tech (Computer Science and Engineering, Jawaharlal Nehru Technological University, Kakinada, 2008)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 18,
+    "current_organization_years": 4
+  },
+
+  "experience_summary": "18 years total experience, 4 years at current organization",
+
+  "designation": "Senior Scale Assistant Professor",
+
+  "email": "kkeerthi@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Artificial Intelligence",
+    "Secure Internet of Things (IoT)"
+  ],
+
+  "courses_taught": [
+    "Operating System",
+    "Database Management System",
+    "Secure Software Engineering",
+    "Computer Networks",
+    "Digital Logic Design",
+    "Internet of Things",
+    "Artificial Intelligence",
+    "Data Structures"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Scale Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2022",
+      "to": "2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Lecturer",
+      "organization": "A.A.N.M & V.V.R.S.R Polytechnic, Gudlavalleru",
+      "from": "2008",
+      "to": "2010"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "QIS College of Engineering",
+      "from": "2012",
+      "to": "2022"
+    }
+  ]
+},
+    {
+  "name": "Dr.T.Meena",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, VIT AP, Amaravati, 2023)",
+      "M.Tech (Computer Science and Engineering, Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, 2014)",
+      "B.Tech (Information Technology, Anna University, Chennai, 2012)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 11,
+    "current_organization_years": 4
+  },
+
+  "experience_summary": "11 years total experience, 4 years at current organization",
+
+  "designation": "Senior Assistant Professor",
+
+  "email": "meena@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Computer Networks",
+    "Cyber Security",
+    "Virtual Reality",
+    "Augmented Reality"
+  ],
+
+  "courses_taught": [
+    "Computer Networks",
+    "Virtual Reality Technologies and AR Development",
+    "Artificial Intelligence for Robotics",
+    "Cryptography and Network Security",
+    "Application Security and Vulnerability Assessment and Penetration Testing",
+    "Mobile Security and Forensics",
+    "Problem Solving Techniques",
+    "Software Engineering",
+    "Operating Systems"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2022",
+      "to": "2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Full time Research Scholar",
+      "organization": "VIT-AP",
+      "from": "2017",
+      "to": "2022"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "King College of Technology, Tamil Nadu",
+      "from": "2014",
+      "to": "2017"
+    }
+  ]
+},
+    {
+  "name": "Dr.N.Krishna Santosh",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, VIT-AP University, Andhra Pradesh, 2023)",
+      "M.Tech (Computer Science and Engineering, GITAM University, Andhra Pradesh, 2010)",
+      "B.Tech (Computer Science and Engineering, JNTU-H, Andhra Pradesh, 2007)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 16,
+    "current_organization_years": 3
+  },
+
+  "experience_summary": "16 years total experience, 3 years at current organization",
+
+  "designation": "Assistant Professor",
+
+  "email": "krishnasantosh@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Medical Image Processing",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+
+  "courses_taught": [
+    "C Programming",
+    "Data Structures",
+    "Database Management Systems",
+    "Advanced Data Structures",
+    "Principles of Programming Language",
+    "Computer Networks",
+    "Cryptography and Network Security",
+    "Computer Graphics",
+    "Design and Analysis of Algorithms",
+    "Operating Systems",
+    "Formal Languages and Automata Theory",
+    "C++ Programming",
+    "Data Warehousing and Data Mining",
+    "Digital Logic and Switching Theory",
+    "Computer Organization"
+  ],
+
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "May 2023",
+      "to": "Present"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Vignans Institute of Engineering for Women, Visakhapatnam",
+      "from": "June 2010",
+      "to": "December 2018"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Al-Ameer College of Engineering & IT, Visakhapatnam",
+      "from": "July 2007",
+      "to": "August 2008"
+    }
+  ]
+},
+    {
+  "name": "Dr.T.Bindu Madhavi",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Deep Learning, VIT-AP University, Amaravati, 2024)",
+      "M.Tech (Computer Science and Engineering, DVR & Dr. HS MIC College of Technology, JNTUK, 2013)",
+      "B.Tech (Computer Science and Engineering, DVR & Dr. HS MIC College of Technology, JNTUH, 2008)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 14,
+    "current_organization_years": 4
+  },
+
+  "experience_summary": "14 years total experience, 4 years at current organization",
+
+  "designation": "Senior Assistant Professor",
+
+  "email": "bindumadhavi@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Medical Image Processing",
+    "Deep Learning",
+    "Computer Vision"
+  ],
+
+  "courses_taught": [
+    "Operating Systems",
+    "Cryptography and Network Security",
+    "Information Security",
+    "C Programming",
+    "Advanced Data Structures and Design and Analysis of Algorithms",
+    "Database Management Systems",
+    "Introduction to Artificial Intelligence",
+    "Data Analytics",
+    "Artificial Neural Networks",
+    "Introduction to Artificial Intelligence and Machine Learning",
+    "Natural Language Processing"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "September 2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "December 2022",
+      "to": "August 2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Full-time Research Scholar",
+      "organization": "VIT-AP University, Amaravati",
+      "from": "Jan 2018",
+      "to": "2021"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "SRK Institute of Technology, Enikepadu, Vijayawada",
+      "from": "May 2015",
+      "to": "December 2017"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "SRK Institute of Technology, Enikepadu, Vijayawada",
+      "from": "Dec 2021",
+      "to": "June 2022"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "MVR College of Engineering, Paritala",
+      "from": "June 2014",
+      "to": "April 2015"
+    },
+    {
+      "role": "Lecturer",
+      "organization": "Sasi College of Engineering and Technology, Tadepalligudem",
+      "from": "July 2009",
+      "to": "May 2010"
+    }
+  ]
+},
+    {
+  "name": "Dr.P.Dhanavanthini",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, VIT Andhra Pradesh Campus, Amaravathi, 2024)",
+      "M.Tech (Computer Science and Engineering, Pondicherry University, 2012)",
+      "B.Tech (Computer Science and Engineering, Pondicherry University, 2012)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 14,
+    "current_organization_years": 3
+  },
+
+  "experience_summary": "14 years total experience, 3 years at current organization",
+
+  "designation": "Senior Assistant Professor",
+
+  "email": "dhanavanthini@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Cyber Security",
+    "LLM Security",
+    "Threat Analysis"
+  ],
+
+  "courses_taught": [
+    "Database Management Techniques",
+    "Operating Systems",
+    "Java Programming",
+    "C Programming",
+    "Object Oriented Analysis and Design",
+    "Artificial Intelligence",
+    "Information Coding Techniques",
+    "Network Security",
+    "Design Thinking",
+    "Data Structures and Algorithms",
+    "Software Engineering",
+    "Agile Project Management",
+    "Malware Analysis and Reverse Engineering",
+    "Application Security",
+    "Vulnerability Analysis"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2023",
+      "to": "Present"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Full-time Researcher",
+      "organization": "VIT Andhra Pradesh Campus",
+      "from": "2020",
+      "to": "2023"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Sri Manakula Vinayagar Engineering College, Pondicherry",
+      "from": "2013",
+      "to": "2020"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "IFET College of Engineering, Villupuram, Tamil Nadu",
+      "from": "2012",
+      "to": "2013"
+    }
+  ]
+},
+    {
+  "name": "Dr.P.Surendra Varma",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, National Institute of Technology Raipur, 2023)",
+      "M.Tech (Computer Science and Engineering, Srinivasa Institute of Engineering and Technology, 2014)",
+      "B.Tech (Computer Science and Engineering, Pragati Engineering College, 2011)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 12,
+    "current_organization_years": 3
+  },
+
+  "experience_summary": "12 years total experience, 3 years at current organization",
+
+  "designation": "Senior Assistant Professor",
+
+  "email": "surendravarma@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Internet of Things",
+    "Machine Learning",
+    "Indoor Positioning"
+  ],
+
+  "courses_taught": [
+    "Computer Networks",
+    "Formal Languages and Automata Theory",
+    "C Programming",
+    "Data Structures",
+    "Python Programming",
+    "Java Programming",
+    "Advanced Java Programming",
+    "Automata Theory and Compiler Design"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2023",
+      "to": "Present"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Raghu Engineering College, Visakhapatnam",
+      "from": "2014",
+      "to": "2019"
+    }
+  ]
+},
+    {
+  "name": "Dr.P.Sukanya",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "PhD",
+    "degrees": [
+      "PhD (Computer Science and Engineering, VIT AP University, Amaravati)",
+      "M.Tech (Computer Science and Engineering, Shri Vishnu Engineering College for Women, Bhimavaram, 2016)",
+      "B.Tech (Computer Science and Engineering, Shri Vishnu Engineering College for Women, Bhimavaram, 2014)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 10,
+    "current_organization_years": 5
+  },
+
+  "experience_summary": "10 years total experience, 5 years at current organization",
+
+  "designation": "Senior Assistant Professor",
+
+  "email": "sukanya@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Medical Image Analysis",
+    "Image Processing",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+
+  "courses_taught": [
+    "C Programming",
+    "Data Structures",
+    "Advanced Data Structures",
+    "Database Management Systems",
+    "Web Technology",
+    "Design Analysis and Algorithms",
+    "Software Engineering"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2023",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2021",
+      "to": "2023"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Sri Vasavi Engineering College, Tadepalligudem",
+      "from": "2018",
+      "to": "2020"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Bhimavaram Institute of Engineering and Technology, Bhimavaram",
+      "from": "2016",
+      "to": "2018"
+    }
+  ]
+},
+    {
+  "name": "Dr.K.Lakshmi Revathi",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "Ph.D (VIT-AP University, 2023)",
+    "degrees": [
+      "Ph.D (Sentiment Analysis, Deep Learning, VIT-AP University, 2023)",
+      "M.Tech (Computer Science and Engineering, Narasaraopet Engineering College, 2017)",
+      "B.Tech (Information Technology, Tirumala Engineering College, 2014)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 9,
+    "current_organization_years": 3
+  },
+
+  "experience_summary": "9 years total experience, 3 years at current organization",
+
+  "designation": "Senior Assistant Professor",
+
+  "email": "lakshmirevathi@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Sentiment Analysis",
+    "Image Processing",
+    "Deep Learning"
+  ],
+
+  "courses_taught": [
+    "Digital Logic Design",
+    "Design Thinking & Innovation",
+    "Software Engineering",
+    "Programming for Data Science",
+    "Data Mining and Data Warehousing",
+    "Design and Analysis of Algorithms",
+    "Advanced Data Structures",
+    "Compiler Design"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "September 2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "August 2023",
+      "to": "August 2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Internal Full Time Research Scholar",
+      "organization": "VIT-AP University, Amaravati",
+      "from": "February 2021",
+      "to": "August 2023"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "DVR & Dr. HS MIC College of Technology, Kanchikacherla",
+      "from": "May 2018",
+      "to": "January 2021"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "RK College of Engineering and Technology, Vijayawada",
+      "from": "June 2017",
+      "to": "May 2018"
+    }
+  ]
+},
+    {
+  "name": "N. Malarvizhi.N",
+  "department": "Computer Science and Engineering",
+
+  "qualification": {
+    "highest": "Ph.D (Annamalai University, 2024)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Annamalai University, 2024)",
+      "M.Tech (Computer Science and Engineering, Annamalai University, 2015)",
+      "B.Tech (Computer Science and Engineering, Annamalai University, 2013)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 10,
+    "current_organization_years": 2
+  },
+
+  "experience_summary": "10 years total experience, 2 years at current organization",
+
+  "designation": "Senior Assistant Professor",
+
+  "email": "nmalarvizhi16@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Reversible Image Steganography"
+  ],
+
+  "courses_taught": [
+    "Computer Programming",
+    "Computer Architecture",
+    "Advanced Computer Architecture",
+    "Problem Solving and Python Programming",
+    "Object Oriented Programming through Java",
+    "Operating Systems",
+    "Theory of Computation",
+    "UI & UX Design"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization": "IFET College of Engineering",
+      "from": "2019",
+      "to": "2020"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "IFET College of Engineering",
+      "from": "2016",
+      "to": "2019"
+    }
+  ]
+},
+    {
+  "name": "Dr.S.Asha Varma",
+  "department": "Artificial Intelligence & Data Science",
+  
+  "qualification": {
+    "highest": "Ph.D (Computer Science and Engineering, VIT-AP University, 2024)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, VIT-AP University, Amaravati, 2024)",
+      "M.Tech (Computer Science and Engineering, GATE, V.R. Siddhartha Engineering College, 2010)",
+      "B.E (Computer Science and Engineering, Chaitanya Bharathi Institute of Technology, 2005)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 18,
+    "current_organization_years": 2
+  },
+
+  "experience_summary": "18 years total experience, 2 years at current organization",
+
+  "designation": "Assistant Professor (Senior Scale)",
+
+  "email": "ashavarma@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Cloud Computing",
+    "Network Security",
+    "Machine Learning",
+    "Cyber Security"
+  ],
+
+  "courses_taught": [
+    "Computer Organization",
+    "Computer Graphics",
+    "Computer Networks",
+    "Data Structures",
+    "Object Oriented Programming through JAVA",
+    "Object Oriented Analysis and Design",
+    "Operating Systems",
+    "Software Engineering"
+  ],
+
+  "roles": [
+    {
+      "role": "Senior Assistant Professor",
+      "organization":"Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2025",
+      "to": "Present"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization":"Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2024",
+      "to": "2025"
+    }
+  ],
+
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "NRI Institute of Technology",
+      "from": "2018",
+      "to": "2023"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Andhra Loyola Institute of Engineering and Technology",
+      "from": "2010",
+      "to": "2014"
+    },
+    {
+      "role": "Lecturer",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2007",
+      "to": "2008"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Sai Spurthi Institute of Technology",
+      "from": "2006",
+      "to": "2007"
+    }
+  ]
+},
+    {
+  "name": "Mr.S. Rajesh",
+  "department": "Computer Science and Engineering",
+  
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Hyderabad, 2008)",
+    "degrees": [
+      "M.Tech (Computer Science and Engineering, JNTU Hyderabad, 2008)",
+      "B.Tech (Electronics & Instrumentation Engineering, Acharya Nagarjuna University, 2004)"
+    ]
+  },
+
+  "experience": {
+    "total_years": 18,
+    "current_organization_years": 18
+  },
+
+  "experience_summary": "18 years total experience, all at current organization",
+
+  "designation": "Assistant Professor",
+
+  "email": "srajesh@vrsiddhartha.ac.in",
+
+  "areas_of_interest": [
+    "Bioinformatics",
+    "Machine Learning",
+    "Internet of Things"
+  ],
+
+  "courses_taught": [
+    "Internet of Things",
+    "Embedded Systems",
+    "Microprocessor & Microcontroller",
+    "Computer Organization",
+    "Digital Logic Design",
+    "Operating Systems",
+    "Computer Networks"
+  ],
+
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2008",
+      "to": "Present"
+    }
+  ],
+
+  "past_experience": []
+},
+    {
+  "name": "Mrs.K.S.Vijaya LakshmiVijaya",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2009)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, JNTU Kakinada)",
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2009)",
+      "B.Level (Computer Science and Engineering, DOEACC Society, 2004)"
+    ]
+  },
+  "experience": {
+    "total_years": 31,
+    "current_organization_years": 31
+  },
+  "experience_summary": "31 years total experience, 31 years as Assistant Professor at current organization",
+  "designation": "Assistant Professor",
+  "email": "vijaya@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Data Mining",
+    "Machine Learning"
+  ],
+  "courses_taught": [
+    "Advanced DBMS",
+    "Software Testing Methodologies",
+    "Database Management Systems",
+    "Object Oriented Programming",
+    "Programming in C",
+    "Problem Solving Methods",
+    "Problem Solving using C",
+    "OOPs using Python",
+    "Technology and Society",
+    "Professional Ethics"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2010",
+      "to": "Present"
+    },
+    {
+      "role": "Programmer",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2004",
+      "to": "2010"
+    },
+    {
+      "role": "Jr. Programmer",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "1995",
+      "to": "2004"
+    }
+  ],
+  "past_experience": []
+},
+    {
+  "name": "Dr. V Durga Prasad Jasti",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D (Computer Science and Engineering, Acharya Nagarjuna University, Guntur, 2025)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Acharya Nagarjuna University, Guntur, 2025)",
+      "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, Guntur, 2010)",
+      "B.Tech (Computer Science and Engineering, JNTU Hyderabad, 2004)"
+    ]
+  },
+  "experience": {
+    "total_years": 17,
+    "current_organization_years": 17
+  },
+  "experience_summary": "17 years total experience, 17 years as Assistant Professor at current organization",
+  "designation": "Assistant Professor",
+  "email": "prasadj@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Deep Learning",
+    "Image Processing"
+  ],
+  "courses_taught": [
+    "Computer Networks",
+    "Advanced Java Programming",
+    "Java Programming",
+    "Data Structures",
+    "Database Management Systems",
+    "Client Server Computing",
+    "Embedded Systems",
+    "OOP Through C++",
+    "Programming in C",
+    "Design and Analysis of Algorithms",
+    "Web Technologies",
+    "Advanced Computer Architecture",
+    "Middleware Technologies"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2009",
+      "to": "Present"
+    }
+  ],
+  "past_experience": []
+},
+    {
+  "name": "Dr. M. Vani Pujitha",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D (Computer Science and Engineering, K.L University, Vaddeswaram)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, K.L University, Vaddeswaram)",
+      "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, Guntur, 2007)",
+      "B.Tech (Computer Science and Engineering, JNTU Hyderabad, 2003)"
+    ]
+  },
+  "experience": {
+    "total_years": 20,
+    "current_organization_years": 19
+  },
+  "experience_summary": "20 years total experience, 19 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "pujitha@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "courses_taught": [
+    "Software Engineering",
+    "OOAD",
+    "Software Testing Methodologies",
+    "Software Project Management",
+    "UI & UX Design",
+    "Design and Analysis of Algorithms",
+    "Data Structures"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2007",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Vignan Bharathi Institute of Technology, Hyderabad",
+      "from": "2004",
+      "to": "2004"
+    }
+  ]
+},
+   {
+  "name": "Mr. A. Raghu Vira Pratap",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Kakinada)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, SRM Institute of Science and Technology, Kattankulathur)",
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada)",
+      "B.Tech (Computer Science and Engineering, Acharya Nagarjuna University, Guntur)"
+    ]
+  },
+  "experience": {
+    "total_years": 19,
+    "current_organization_years": 19
+  },
+  "experience_summary": "19 years total experience, 19 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "pratapadimulam@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Machine Learning",
+    "Web Data Analytics"
+  ],
+  "courses_taught": [
+    "Python Programming",
+    "C Programming",
+    "OOP using Java",
+    ".Net Technologies",
+    "Web Technologies",
+    "Middleware Technologies",
+    "Computer Graphics",
+    "Computer Networks",
+    "Database Systems",
+    "Information Security",
+    "Advanced Programming in Java"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2007",
+      "to": "Present"
+    }
+  ],
+  "past_experience": []
+},
+    {
+  "name": "Mr. S. Babu",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, 2011)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, SRK University, Bhopal)",
+      "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, Guntur, 2011)",
+      "B.Tech (Computer Science and Engineering, JNTU Hyderabad, 2008)"
+    ]
+  },
+  "experience": {
+    "total_years": 18,
+    "current_organization_years": 18
+  },
+  "experience_summary": "18 years total experience, 18 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "sbabu@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Machine Learning",
+    "Data Analytics"
+  ],
+  "courses_taught": [
+    "Introduction to Computers",
+    "Programming in C",
+    "Data Structures using C",
+    "Object Oriented Programming",
+    "Operating Systems",
+    "AI Tools and Applications",
+    "Problem Solving Methods",
+    "Principles of Programming Languages",
+    "Microprocessor and Interfacing"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2008",
+      "to": "Present"
+    }
+  ],
+  "past_experience": []
+},
+    {
+  "name": "Mr. D. Suresh Babu",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2014)",
+    "degrees": [
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2014)",
+      "B.Tech (Computer Science and Engineering, JNTU Kakinada, 2010)"
+    ]
+  },
+  "experience": {
+    "total_years": 12,
+    "current_organization_years": 12
+  },
+  "experience_summary": "12 years total experience, 12 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "dasarisuresh@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Data Mining"
+  ],
+  "courses_taught": [
+    "Programming In C",
+    "Problem Solving Methods",
+    "Professional Ethics"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2014",
+      "to": "Present"
+    }
+  ],
+  "past_experience": []
+},
+    {
+  "name": "Mr.Ch.Mukesh",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.S (Distributed Systems and Networks, University of Hertfordshire, UK, 2007)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology, Chennai, 2022)",
+      "M.S (Distributed Systems and Networks, University of Hertfordshire, UK, 2007)",
+      "B.Tech (Electronics and Communications Engineering, V R Siddhartha Engineering College, 2004)"
+    ]
+  },
+  "experience": {
+    "total_years": 17,
+    "current_organization_years": 14
+  },
+  "experience_summary": "17 years total experience, 14 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "mukesh.chinta@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Computer Networks",
+    "Cyber Security"
+  ],
+  "courses_taught": [
+    "Computer Networks",
+    "Operating Systems",
+    "Cyber Security",
+    "Cryptography & Network Security",
+    "Network Security & Forensics",
+    "Design Thinking",
+    "Mobile Computing",
+    "Cloud Computing"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2012",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "V N R Vignana Jyothi Institute of Technology, Hyderabad",
+      "from": "2009",
+      "to": "2012"
+    }
+  ]
+},
+    {
+  "name": "Mr. N. Sunny",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2013)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, NIT Warangal, Telangana)",
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2013)",
+      "B.Tech (Computer Science and Engineering, JNTU Kakinada, 2011)"
+    ]
+  },
+  "experience": {
+    "total_years": 12,
+    "current_organization_years": 12
+  },
+  "experience_summary": "12 years total experience, 12 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "sunny@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Computer Networks",
+    "Computer Vision",
+    "Digital Image Processing",
+    "Pattern Recognition"
+  ],
+  "courses_taught": [
+    "Computer Networks",
+    "Computer Graphics",
+    "Computer Organisation",
+    "Mobile Computing",
+    "Professional Ethics and Human Values",
+    "TCP/IP",
+    "M Commerce",
+    "User Interface and Experience Design"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2014",
+      "to": "Present"
+    }
+  ],
+  "past_experience": []
+},
+    {
+  "name": "Mrs. Ch. Raga Madhuri",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2014)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, JNTU Kakinada)",
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2014)",
+      "B.Tech (Information Technology, JNTU Kakinada, 2012)"
+    ]
+  },
+  "experience": {
+    "total_years": 11,
+    "current_organization_years": 11
+  },
+  "experience_summary": "11 years total experience, 11 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "chragamadhuri@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Affective Computing",
+    "Data Mining",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "courses_taught": [
+    "Computer Networks",
+    "Cloud Computing",
+    "Mobile Computing",
+    "DevOps",
+    "OOP through JAVA",
+    "Web Technologies",
+    "Operating Systems",
+    "E-Commerce",
+    "Agile Software Development",
+    "E-Commerce"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2015",
+      "to": "Present"
+    }
+  ],
+  "past_experience": []
+},
+    {
+  "name": "Mr.V.Sandeep",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (IT-Networking, VIT University, 2011)",
+    "degrees": [
+      "Ph.D (Information Technology & Computer Application, Pursuing, AU College of Engineering, Andhra University, Vishakhapatnam)",
+      "M.Tech (IT-Networking, VIT University, 2011)",
+      "B.Tech (Information Technology, RVR & JC College of Engineering, Acharya Nagarjuna University, 2007)"
+    ]
+  },
+  "experience": {
+    "total_years": 15,
+    "current_organization_years": 8
+  },
+  "experience_summary": "15 years total experience, 8 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "sandeepv@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Machine Learning",
+    "Deep Learning",
+    "Image Processing",
+    "XAI"
+  ],
+  "courses_taught": [
+    "Programming: Python, Java, C, Data Structures",
+    "Full Stack Web Development (MERN Stack)",
+    "Database Management Systems",
+    "Operating Systems",
+    "Theory of Computation",
+    "Compiler Design"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2018",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Department of CSE, KL University",
+      "from": "2011",
+      "to": "2018"
+    }
+  ]
+},
+    {
+  "name": "Ms. V. Deepa",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, 2011)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, Andhra University, Visakhapatnam)",
+      "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, 2011)",
+      "B.Tech (Information Science & Technology, Acharya Nagarjuna University, 2005)"
+    ]
+  },
+  "experience": {
+    "total_years": 16,
+    "current_organization_years": 8
+  },
+  "experience_summary": "16 years total experience, 8 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "deepa@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "courses_taught": [
+    "Data Structures",
+    "Python Programming",
+    "Artificial Intelligence",
+    "Compiler Design",
+    "Universal Human Values"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2018",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2005",
+      "to": "2013"
+    }
+  ]
+},
+    {
+  "name": "Mr. U. Prabu",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, Pondicherry University, 2015)",
+    "degrees": [
+      "Ph.D (Software Defined Networks, Pursuing, Pondicherry University)",
+      "M.Tech (Computer Science and Engineering, Pondicherry University, 2015)",
+      "B.Tech (Information Technology, Anna University, 2011)"
+    ]
+  },
+  "experience": {
+    "total_years": 11,
+    "current_organization_years": 7
+  },
+  "experience_summary": "11 years total experience, 7 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "prabu@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Software Defined Networks"
+  ],
+  "courses_taught": [
+    "Advanced Database Management Systems",
+    "Advanced Java Programming",
+    "Advanced Python Programming",
+    "Data Analytics",
+    "Database Management Systems",
+    "Distributed Computing",
+    "Internet Programming",
+    "Java Programming",
+    "Mobile Application Development",
+    "Parallel Computing",
+    "Programming in C",
+    "Service Oriented Architecture",
+    "Software Project Management",
+    "Web Technology"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "November 2019",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Koneru Lakshmaiah Education Foundation (Deemed to be University)",
+      "from": "October 2017",
+      "to": "November 2019"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "IFET College of Engineering",
+      "from": "June 2016",
+      "to": "September 2017"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Shri Krishnaa College of Engineering and Technology",
+      "from": "July 2015",
+      "to": "May 2016"
+    }
+  ]
+},
+    {
+  "name": "Dr. M. Madhavi",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D (Computer Science and Engineering, 2025, Annamalai University, Chidambaram)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, 2025, Annamalai University, Chidambaram)",
+      "M.Tech (Computer Science and Engineering, JNTUH Hyderabad, 2011)",
+      "B.Tech (Information Science and Technology, Koneru Lakshmaiah College of Engineering, 2005)"
+    ]
+  },
+  "experience": {
+    "total_years": 21,
+    "current_organization_years": 4
+  },
+  "experience_summary": "21 years total experience, 4 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "mmadhavi@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Computer Networks",
+    "Cloud Computing",
+    "Internet of Things",
+    "Network Security"
+  ],
+  "courses_taught": [
+    "Computer Networks",
+    "Operating Systems",
+    "Software Engineering",
+    "Data Structures",
+    "Java Programming",
+    "Mobile Application Development",
+    "OOAD",
+    "DBMS",
+    "DAA",
+    "Python Programming",
+    "Mobile Computing",
+    "Data warehousing",
+    "Distributed Systems"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "17-01-2022",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Vasavi Institute of Technology",
+      "from": "2020",
+      "to": "2021"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "MIC College of Technology",
+      "from": "2015",
+      "to": "2020"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "VR Siddhartha Engineering College",
+      "from": "2014",
+      "to": "2015"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "K L University",
+      "from": "2011",
+      "to": "2014"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Aurora Institute of Technology",
+      "from": "2005",
+      "to": "2009"
+    }
+  ]
+},
+    {
+  "name": "Mrs. R. Swapna",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2020)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, Siddhartha Academy of Higher Education, Deemed to be University)",
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2020)",
+      "B.Tech (Computer Science and Engineering, JNTU Kakinada, 2017)"
+    ]
+  },
+  "experience": {
+    "total_years": 5,
+    "current_organization_years": 4
+  },
+  "experience_summary": "5 years total experience, 4 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "rswapna@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Artificial Intelligence",
+    "Machine Learning"
+  ],
+  "courses_taught": [
+    "Introduction to Data Structures",
+    "NoSQL Databases",
+    "Programming Essentials in Python",
+    "Problem Solving Using C",
+    "AI Tools and Applications",
+    "Design Thinking",
+    "Natural Language Processing"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2022",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "R V Institute of Technology",
+      "from": "2021",
+      "to": "2022"
+    }
+  ]
+},
+    {
+  "name": "Mr. S. Subhakar",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, Gudlavalleru Engineering College, 2018)",
+    "degrees": [
+      "M.Tech (Computer Science and Engineering, Gudlavalleru Engineering College, 2018)",
+      "B.Tech (Computer Science and Engineering, Gudlavalleru Engineering College, 2015)"
+    ]
+  },
+  "experience": {
+    "total_years": 8,
+    "current_organization_years": 4
+  },
+  "experience_summary": "8 years total experience, 4 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "subhakar@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Data Mining",
+    "Machine Learning"
+  ],
+  "courses_taught": [
+    "Introduction to Programming using C",
+    "Python Programming",
+    "Database Management System",
+    "Web Programming",
+    "Full Stack Development",
+    "Data Structures",
+    "AI Tools and Applications",
+    "Mobile-Commerce"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Gudlavalleru Engineering College, Gudlavalleru",
+      "from": "2020",
+      "to": "2022"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Vikas College Of Engineering And Technology, Nunna",
+      "from": "2018",
+      "to": "2020"
+    }
+  ]
+},
+    {
+  "name": "Mr. K. Sivasai Ram Prasad",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.S (Computer Science and Engineering, Indian Institute of Technology, Hyderabad, 2021)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, National Institute of Technology, Warangal)",
+      "M.S (Computer Science and Engineering, Indian Institute of Technology, Hyderabad, 2021)",
+      "M.E (Software Systems, Birla Institute of Technology and Science, Pilani, 2012)",
+      "B.Tech (Computer Science and Engineering, Acharya Nagarjuna University, Guntur, 2009)"
+    ]
+  },
+  "experience": {
+    "total_years": 5,
+    "current_organization_years": 3
+  },
+  "experience_summary": "5 years total experience, 3 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "sivasairamprasad@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Computer Networks",
+    "Machine Learning"
+  ],
+  "courses_taught": [
+    "Cryptography and Network Security",
+    "Computer Networks",
+    "Cyber Security",
+    "Information Security and Risk Management",
+    "Introduction to Forensic Science and Cyber Law",
+    "Computer Forensics"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2022",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Madanapalle Institute of Technology and Science, Madanapalle",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Universal College of Engineering and Technology",
+      "from": "2012",
+      "to": "2013"
+    }
+  ]
+},
+    {
+  "name": "s. J. Lakshmi Alekhya",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, Jaya Prakash Narayan College of Engineering, JNTUH, Mahaboobnagar, 2013)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, Annamalai University, Annamalainagar)",
+      "M.Tech (Computer Science and Engineering, Jaya Prakash Narayan College of Engineering, JNTUH, Mahaboobnagar, 2013)",
+      "B.Tech (Computer Science and Engineering, Jaya Prakash Narayan College of Engineering, JNTUH, Mahaboobnagar, 2011)"
+    ]
+  },
+  "experience": {
+    "total_years": 15,
+    "current_organization_years": 4
+  },
+  "experience_summary": "15 years total experience, 4 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "jlalekhya@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Machine Learning",
+    "Deep Learning",
+    "Video Processing",
+    "Image Processing"
+  ],
+  "courses_taught": [
+    "Introduction to Data Structures",
+    "Programming Essentials in Python",
+    "Problem Solving Using C",
+    "AI Tools and Applications",
+    "Cloud Computing",
+    "Computer Networks",
+    "Operating Systems",
+    "Software Engineering",
+    "Universal Human Values"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2022",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Gudlavalleru Engineering College, Gudlavalleru",
+      "from": "2018",
+      "to": "2022"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Krishna Chaitanya Institute of Engineering And Technology, Markapuram",
+      "from": "2016",
+      "to": "2018"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Jaya Prakash Narayan College of Engineering, JNTUH, Mahaboobnagar",
+      "from": "2011",
+      "to": "2016"
+    }
+  ]
+},
+    {
+  "name": "Mr. K. Rama Krishna",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNT University, Kakinada, 2018)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, JNT University, Kakinada)",
+      "M.Tech (Computer Science and Engineering, JNT University, Kakinada, 2018)",
+      "B.Tech (Computer Science and Engineering, Acharya Nagarjuna University, Guntur, 2014)"
+    ]
+  },
+  "experience": {
+    "total_years": 7,
+    "current_organization_years": 3
+  },
+  "experience_summary": "7 years total experience, 3 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "kramakrishna@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Image Processing",
+    "Data Mining",
+    "Machine Learning"
+  ],
+  "courses_taught": [
+    "Problem Solving Using C (PSUC)",
+    "Data Structure (DS)",
+    "Web Technologies (WT)",
+    "Mobile Computing (MC)",
+    "Python Programming",
+    "Digital Logic and Design",
+    "Compiler Design",
+    "Database Management System"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2023",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Ad Hoc Faculty",
+      "organization": "NIT, Andhra Pradesh",
+      "from": "2022",
+      "to": "2023"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Bapatla Engineering College, Bapatla",
+      "from": "2021",
+      "to": "2022"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Seshadri Rao Gudlavalleru Engineering College, Gudlavalleru",
+      "from": "2019",
+      "to": "2021"
+    }
+  ]
+},
+    {
+  "name": "Mrs. K. Rani",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2009)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Pursuing, JNTU Kakinada)",
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2009)",
+      "B.Tech (Computer Science and Engineering, JNTU Hyderabad, 2007)"
+    ]
+  },
+  "experience": {
+    "total_years": 10,
+    "current_organization_years": 3
+  },
+  "experience_summary": "10 years total experience, 3 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "krani@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Network Security"
+  ],
+  "courses_taught": [
+    "Python Programming",
+    "Data Structures",
+    "Problem Solving Methods",
+    "Introduction to Computing",
+    "Problem Solving using C",
+    "Programming in C",
+    "Compiler Design",
+    "Web Technology"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2023",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2010",
+      "to": "2017"
+    }
+  ]
+},
+    {
+  "name": "Dr. V. Lavanya",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D (Information Technology, Gitam University, 2026)",
+    "degrees": [
+      "Ph.D (Information Technology, Gitam University, 2026)",
+      "M.Tech (Computer Science and Engineering, Acharya Nagarjuna University, 2010)",
+      "B.Tech (Information Technology, Andhra University, 2005)"
+    ]
+  },
+  "experience": {
+    "total_years": 19,
+    "current_organization_years": 3
+  },
+  "experience_summary": "19 years total experience, 3 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "lavanya@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Cyber Security",
+    "Machine Learning",
+    "Deep Learning",
+    "IoT"
+  ],
+  "courses_taught": [
+    "C Programming Language",
+    "Computer Networks",
+    "Cloud Computing",
+    "Data Structures",
+    "Database Management Systems",
+    "Design and Analysis of Algorithms",
+    "E-Commerce",
+    "Operating Systems",
+    "Object Oriented Analysis & Design",
+    "Software Engineering",
+    "Software Testing Methodologies",
+    "Software Project Management",
+    "Wireless Networks & Mobile Communication"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2023",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Dhanekula Institute of Engineering & Technology",
+      "from": "2021",
+      "to": "2023"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "VNR Vignana Jyothi Institute Of Engineering & Technology",
+      "from": "2016",
+      "to": "2021"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Malla Reddy Institute of Engineering & Technology",
+      "from": "2013",
+      "to": "2016"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "V.K.R & V.N.B, A.G.K Engineering College",
+      "from": "2010",
+      "to": "2013"
+    },
+    {
+      "role": "Associate Lecturer",
+      "organization": "V.K.R & V.N.B Polytechnic College",
+      "from": "2005",
+      "to": "2008"
+    }
+  ]
+},
+    {
+  "name": "Mrs. G. Indrasree",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D (Computer Science and Engineering, Siddhartha Academy of Higher Education, Pursuing)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Siddhartha Academy of Higher Education, Pursuing)",
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2023)",
+      "B.Tech (Computer Science and Engineering, JNTU Kakinada, 2016)"
+    ]
+  },
+  "experience": {
+    "total_years": 8,
+    "current_organization_years": 3
+  },
+  "experience_summary": "8 years total experience, 3 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "indrasri@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "courses_taught": [
+    "DID&CO",
+    "UI/UX Design",
+    "Software Engineering",
+    "Design Thinking & Innovation",
+    "Flutter"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2023",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Software Developer (Dot Net)",
+      "organization": "Maganti IT Solutions",
+      "from": "2019",
+      "to": "2021"
+    },
+    {
+      "role": "Jr. Software Developer",
+      "organization": "Normsoft Solutions (NRT TECH PARK)",
+      "from": "2016",
+      "to": "2019"
+    }
+  ]
+},
+    {
+  "name": "Mrs. J. Malathi",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2012)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Acharya Nagarjuna University, Pursuing)",
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2012)",
+      "B.Tech (Computer Science and Engineering, Acharya Nagarjuna University, 2006)"
+    ]
+  },
+  "experience": {
+    "total_years": 16,
+    "current_organization_years": 3
+  },
+  "experience_summary": "16 years total experience, 3 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "malathi.j@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Image Processing",
+    "Computer Vision",
+    "Deep Learning"
+  ],
+  "courses_taught": [
+    "Computer Programming",
+    "Design and Analysis of Algorithms",
+    "Artificial Intelligence",
+    "Software Engineering",
+    "Operating Systems",
+    "Principles of Software Engineering",
+    "File Structures",
+    "UI & UX Design",
+    "Universal Human Values"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2023",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Sir C. R. Reddy College of Engineering",
+      "from": "2012",
+      "to": "2023"
+    },
+    {
+      "role": "Lecturer",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2006",
+      "to": "2008"
+    }
+  ]
+},
+    {
+  "name": "Mrs. T. Rajarajeswari",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Information Technology, JNTU Hyderabad, 2010)",
+    "degrees": [
+      "Ph.D (Emotion Recognition in Multimodal data using VL Transformers, NIT Mizoram, Pursuing)",
+      "M.Tech (Information Technology, JNTU Hyderabad, 2010)",
+      "B.Tech (Computer Science and Engineering, JNTU Hyderabad, 2005)"
+    ]
+  },
+  "experience": {
+    "total_years": 14,
+    "current_organization_years": 2
+  },
+   "experience_summary": "14 years total experience, 2 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "thrajeswari@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Emotion Recognition Using Vision Language Transformers",
+    "Internet of Things",
+    "Blockchain Technology"
+  ],
+  "courses_taught": [
+    "Machine Learning",
+    "Introduction to AI & Data Science",
+    "AI for Web Development",
+    "Data Structures",
+    "Pattern Recognition",
+    "Computer Networks",
+    "Problem Solving & Computer Programming",
+    "Object-Oriented Programming using Java",
+    "Multimedia & Web Design",
+    "Design and Analysis of Algorithms",
+    "Python Programming"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "March 2024",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Lakkireddi Balireddy College of Engineering, Mylavaram",
+      "from": "June 2022",
+      "to": "Jan 2024"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "MLR Institute of Technology, Hyderabad",
+      "from": "June 2018",
+      "to": "May 2022"
+    },
+    {
+      "role": "Adhoc Faculty",
+      "organization": "NIT Andhra Pradesh, Tadepalligudem",
+      "from": "Aug 2016",
+      "to": "May 2018"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "BV Raju Institute of Technology, Narsapuram",
+      "from": "Dec 2014",
+      "to": "July 2016"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "GVP College of Engineering for Women, Visakhapatnam",
+      "from": "June 2012",
+      "to": "July 2014"
+    }
+  ]
+},
+    {
+  "name": "Ms.K. Divya",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Data Science, Velagapudi Ramakrishna Siddhartha Engineering College, 2021)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, Annamalai University, Pursuing)",
+      "M.Tech (Data Science, Velagapudi Ramakrishna Siddhartha Engineering College, 2021)",
+      "B.Tech (Computer Science and Engineering, Anurag Engineering College, 2019)"
+    ]
+  },
+  "experience": {
+    "total_years": 5,
+    "current_organization_years": 2
+  },
+   "experience_summary": "5 years total experience, 2 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "kdivya@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Computer Networks",
+    "Deep Learning"
+  ],
+  "courses_taught": [
+    "Database Management Systems",
+    "Software Engineering",
+    "Digital Logic Design",
+    "Full Stack Development"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2024",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Seshadri Rao Gudlavalleru Engineering College, Gudlavalleru",
+      "from": "2021",
+      "to": "2024"
+    }
+  ]
+},
+    {
+  "name": "Mrs. T. Malleswari",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, Sri Venkateswara Engineering College, JNTUH, 2015)",
+    "degrees": [
+      "M.Tech (Computer Science and Engineering, Sri Venkateswara Engineering College, JNTUH, 2015)",
+      "B.Tech (Information Technology, Sri Venkateswara Engineering College, JNTUH, 2011)",
+      "Ph.D (Pursuing, Privacy-Preserving Biometrics with Deep Learning Models for Deepfake-Resilient Authentication, Siddhartha Academy of Higher Education)"
+    ]
+  },
+  "experience": {
+    "total_years": 10,
+    "current_organization_years": 2
+  },
+   "experience_summary": "10 years total experience, 2 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "malleshwari@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Biometrics",
+    "Privacy-preserving Machine Learning/Deep Learning",
+    "Cybersecurity in AI",
+    "Biometric Security"
+  ],
+  "courses_taught": [
+    "Database Management Systems",
+    "Web Technology",
+    "Computer Programming",
+    "Data Analytics",
+    "Software Project Management",
+    "Internet Programming",
+    "Service Oriented Architecture",
+    "Platform Based Development",
+    "Mobile Application Development",
+    "Object-Oriented Programming using Java"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "May 2024",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Vignans Lara Institute of Technology & Science, Guntur",
+      "from": "Mar 2023",
+      "to": "May 2024"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "P.B. Siddhartha College of Arts & Science, Vijayawada",
+      "from": "Sep 2016",
+      "to": "Mar 2023"
+    }
+  ]
+},
+    {
+  "name": "Mr. Venkata S. P. Dendukuri",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.S (Computer Science, Virginia University, U.S.A.)",
+    "degrees": [
+      "M.S (Computer Science, Virginia University, U.S.A.)",
+      "M.S (Bioinformatics, University of Wolverhampton, U.K.)",
+      "B.Tech (Bioinformatics, Bharath University, Chennai, India)"
+    ]
+  },
+  "experience": {
+    "total_years": 12,
+    "current_organization_years": 2
+  },
+  "experience_summary": "12 years total experience, 2 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "venkataspd@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Bioinformatics",
+    "Computational Biology",
+    "Cloud Computing",
+    "Artificial Intelligence",
+    "Machine Learning"
+  ],
+  "courses_taught": [
+    "Information Technology",
+    "Problem Solving with Python",
+    "Bioinformatics",
+    "Cloud Computing",
+    "DNA Data Mining",
+    "Programming for Application Development"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "August 2024",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "DevOps Engineer",
+      "organization": "Amicoid IT Solutions, Canada",
+      "from": "October 2022",
+      "to": "July 2024"
+    },
+    {
+      "role": "Java Developer & DevOps",
+      "organization": "Extarc Solutions, India",
+      "from": "May 2017",
+      "to": "October 2022"
+    },
+    {
+      "role": "Java Developer",
+      "organization": "Pharmacy Plus Network, Ledgewood, USA",
+      "from": "April 2016",
+      "to": "April 2017"
+    },
+    {
+      "role": "Java Developer",
+      "organization": "NJ - Department of Health, USA",
+      "from": "April 2015",
+      "to": "April 2016"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "KL University, India",
+      "from": "June 2012",
+      "to": "May 2013"
+    }
+  ]
+},
+    {
+  "name": "Ms. K. Rupa Kusuma",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, V R Siddhartha Engineering College, 2023)",
+    "degrees": [
+      "M.Tech (Computer Science and Engineering, V R Siddhartha Engineering College, 2023)",
+      "B.Tech (Computer Science and Engineering, V R Siddhartha Engineering College, 2020)"
+    ]
+  },
+  "experience": {
+    "total_years": 4,
+    "current_organization_years": 2
+  },
+  "experience_summary": "4 years total experience, 2 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "krupakusuma@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Artificial Intelligence",
+    "Machine Learning"
+  ],
+  "courses_taught": [
+    "Software Engineering",
+    "Design Thinking",
+    "Essence of Indian Knowledge and Tradition"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization":"Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "August 2024",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Associate Software Engineer",
+      "organization": "Anblicks Solutions",
+      "from": "2019",
+      "to": "2021"
+    }
+  ]
+},
+    {
+  "name": "Mr. K. Phaneendra",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, Bapatla Engineering College, 2015)",
+    "degrees": [
+      "M.Tech (Computer Science and Engineering, Bapatla Engineering College, 2015)",
+      "B.Tech (Computer Science and Engineering, PVP Siddhartha Institute of Technology, 2012)"
+    ]
+  },
+  "experience": {
+    "total_years": 10,
+    "current_organization_years": 2
+  },
+  "experience_summary": "10 years total experience, 2 year at current organization",
+  "designation": "Assistant Professor",
+  "email": "phaneendrak@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Computer Forensics"
+  ],
+  "courses_taught": [],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "November 2024",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Associate Projects",
+      "organization": "Cognizant Technology Solutions Pvt Ltd.",
+      "from": "Jan 2022",
+      "to": "July 2024"
+    },
+    {
+      "role": "Senior Software Engineer",
+      "organization": "Hexaware Technologies Pvt Ltd.",
+      "from": "June 2018",
+      "to": "Jan 2022"
+    },
+    {
+      "role": "Assistant Consultant",
+      "organization": "Virtusa Pvt Ltd.",
+      "from": "Nov 2016",
+      "to": "May 2018"
+    }
+  ]
+},
+    {
+  "name": "Dr. Purna Prakash Kasaraneni",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D. (Computer Science and Engineering, VIT-AP University, 2023)",
+    "degrees": [
+      "Ph.D. (Computer Science and Engineering, VIT-AP University, 2023)",
+      "M.Tech. (Information Technology, Andhra University, 2011)",
+      "B.Tech. (Information Science and Technology, Acharya Nagarjuna University, 2006)"
+    ]
+  },
+  "experience": {
+    "total_years": 18,
+    "current_organization_years": 1
+  },
+  "experience_summary": "18 years total experience, 1 year at current organization",
+  "designation": "Assistant Professor",
+  "email": "kpurnaprakash@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Machine Learning",
+    "Data Analytics",
+    "Smart Homes",
+    "Smart Grids"
+  ],
+  "courses_taught": [
+    "Deep Learning",
+    "Artificial Intelligence & Machine Learning",
+    "Data-Driven Artificial Intelligent Systems",
+    "Statistics with R Programming",
+    "Object-Oriented Analysis & Design using UML",
+    "Object-Oriented Software Engineering",
+    "Database Management Systems",
+    "Data Warehousing and Data Mining",
+    "Compiler Design",
+    "E-Commerce",
+    "Systems Administration"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Koneru Lakshmaiah Education Foundation (Deemed to be University)",
+      "from": "2023",
+      "to": "2025"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Sir C.R. Reddy College of Engineering, Vatluru",
+      "from": "2011",
+      "to": "2023"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Institution not specified",
+      "from": "2007",
+      "to": "2009"
+    },
+    {
+      "role": "Lecturer",
+      "organization": "Institution not specified",
+      "from": "2006",
+      "to": "2007"
+    }
+  ]
+},
+    {
+  "name": "Mrs. K. Keerthi",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2017)",
+    "degrees": [
+      "M.Tech (Computer Science and Engineering, JNTU Kakinada, 2017)",
+      "B.Tech (Information Technology, JNTU Kakinada, 2010)"
+    ]
+  },
+  "experience": {
+    "total_years": 8,
+    "current_organization_years": 1
+  },
+  "experience_summary": "8 years total experience, 1 year at current organization",
+  "designation": "Assistant Professor",
+  "email": "kolakeerthi@vrsiddhartha.ac.in",
+  "areas_of_interest": [],
+  "courses_taught": [
+    "Programming Using C",
+    "Python",
+    "Data Structures"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Salesforce CPQ Developer",
+      "organization": "A5Corporation, Bangalore",
+      "from": "2021",
+      "to": "2023"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "MIC College of Technology, Kanchikacherla",
+      "from": "2018",
+      "to": "2021"
+    }
+  ]
+},
+   {
+  "name": "Dr. Anjum",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D (Computer Science and Technology, Sri Krishnadevaraya University, 2023)",
+    "degrees": [
+      "Ph.D (Computer Science and Technology, Sri Krishnadevaraya University, 2023)",
+      "M.Tech (Computer Science and Engineering, JNTU Hyderabad, 2010)"
+    ]
+  },
+  "experience": {
+    "total_years": 4,
+    "current_organization_years": 1
+  },
+  "experience_summary": "4 years total experience, 1 year at current organization",
+  "designation": "Assistant Professor",
+  "email": "dranjum@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Artificial Intelligence",
+    "Image Processing",
+    "Computer Vision",
+    "Information Security"
+  ],
+  "courses_taught": [],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Kannur University, Kerala",
+      "from": "2024",
+      "to": "2025"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "NOVA College of Engineering & Technology, Hyderabad",
+      "from": "2012",
+      "to": "2013"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Dr. V.R.K. Women’s College of Engineering & Technology, Moinabad, Hyderabad",
+      "from": "2011",
+      "to": "2012"
+    }
+  ]
+},
+   {
+  "name": "Dr. B. Sai Sambasiva Rao",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D (Computer Science and Engineering, VIT-AP University, 2023)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, VIT-AP University, 2023)",
+      "M.Tech (Big Data Analytics, SRM Institute of Science & Technology, 2019)",
+      "B.Tech (Computer Science and Engineering with Specialization in Data Engineering, Koneru Lakshmaiah Education Foundation, 2017)"
+    ]
+  },
+  "experience": {
+    "total_years": 5,
+    "current_organization_years": 1
+  },
+  "experience_summary": "5 years total experience, 1 years at current organization",
+  "designation": "Professor",
+  "email": "bsaisambasivarao@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Deep Learning",
+    "Pattern Recognition",
+    "Digital Image Processing"
+  ],
+  "courses_taught": [
+    "Machine Learning",
+    "Data Analytics & Visualization",
+    "Deep Learning",
+    "Data Structures and Algorithms",
+    "Python Programming",
+    "Big Data Analytics"
+  ],
+  "roles": [
+    {
+      "role": "Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "July 2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "KLEF, Vaddeswaram",
+      "from": "June 2023",
+      "to": "April 2025"
+    },
+    {
+      "role": "Assistant Professor (Junior)",
+      "organization": "VIT-AP University, Inavolu",
+      "from": "January 2021",
+      "to": "June 2023"
+    }
+  ]
+},
+   {
+  "name": "Ms. M. Navyasri",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Sc (Computer Information Sciences, Bradley University, 2022)",
+    "degrees": [
+      "M.Sc (Computer Information Sciences, Bradley University, 2022)",
+      "B.Tech (Information Technology, PVP Siddhartha Engineering College, 2020)"
+    ]
+  },
+  "experience": {
+    "total_years": 3,
+    "current_organization_years": 1
+  },
+  "experience_summary": "3 years total experience, 1 year at current organization",
+  "designation": "Assistant Professor",
+  "email": "mnavyasri@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Artificial Intelligence"
+  ],
+  "courses_taught": [
+    "UI & UX Design"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Business Analyst",
+      "organization": "Vital Flows",
+      "from": "2023",
+      "to": "2024"
+    }
+  ]
+},
+    {
+  "name": "Mr. V. Pavan Krishna",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.S (Computer Science and Engineering, La Trobe University, Australia, 2016)",
+    "degrees": [
+      "M.S (Computer Science and Engineering, La Trobe University, Australia, 2016)",
+      "B.Tech (Computer Science and Engineering, Prasad V Potluri Siddhartha Institute of Technology - JNTUK, 2012)"
+    ]
+  },
+  "experience": {
+    "total_years": 8,
+    "current_organization_years": 1
+  },
+  "experience_summary": "8 years total experience, 1 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "vpavankrishna@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Bio-Informatics"
+  ],
+  "courses_taught": [
+    "JAVA",
+    "Data Structures using C and Python"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "August 2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Software Engineer",
+      "organization": "ValueLabs",
+      "from": "Oct 2023",
+      "to": "July 2024"
+    },
+    {
+      "role": "Angular Developer",
+      "organization": "SmartGig Technologies",
+      "from": "July 2022",
+      "to": "Sept 2022"
+    },
+    {
+      "role": "Software Engineer",
+      "organization": "Aclara India Pvt Ltd",
+      "from": "Aug 2019",
+      "to": "Feb 2022"
+    },
+    {
+      "role": "UI Developer",
+      "organization": "Agile CRM",
+      "from": "Oct 2018",
+      "to": "June 2019"
+    }
+  ]
+},
+    {
+  "name": "Dr. Y. V. Nandini",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D (Computer Science and Engineering, SRM University-AP, Amaravati, 2026)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, SRM University-AP, Amaravati, 2026)",
+      "M.Tech (Computer Science and Technology, Andhra University College of Engineering, 2016)",
+      "B.Tech (Information Technology, Velagapudi Ramakrishna Siddhartha Engineering College, JNTUK, 2014)"
+    ]
+  },
+  "experience": {
+    "total_years": 5,
+    "current_organization_years": 1
+  },
+  "experience_summary": "5 years total experience, 1 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "yvnandini@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "Complex Hypergraphs",
+    "Parallel and Distributed Computing",
+    "Neural Networks"
+  ],
+  "courses_taught": [
+    "Research Methodologies and IPR",
+    "Data Warehousing and Data Mining",
+    "Data Structures",
+    "Operating Systems",
+    "Java Programming",
+    "Cyber Security",
+    "Human Computer Interaction",
+    "Digital Logic Design"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor",
+      "organization": "SRK Institute of Technology",
+      "from": "2019",
+      "to": "2022"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "Koneru Lakshmaiah Education Foundation (KLEF), Deemed to be University",
+      "from": "2018",
+      "to": "2019"
+    }
+  ]
+},
+    {
+  "name": "Mrs. Gadi Himaja",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.Tech (Computer Science and Engineering, Gold Medalist, Andhra University, 2017)",
+    "degrees": [
+      "Ph.D (FANETs, Pursuing, GITAM Deemed to be University, Visakhapatnam)",
+      "M.Tech (Computer Science and Engineering, Gold Medalist, Andhra University, 2017)",
+      "B.Tech (Information Technology, Jawaharlal Nehru Technological University, Kakinada, 2015)"
+    ]
+  },
+  "experience": {
+    "total_years": 9,
+    "current_organization_years": 1
+  },
+  "experience_summary": "9 years total experience, 1 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "himaja@vrsiddhartha.ac.in",
+  "areas_of_interest": [
+    "UAV-Assisted Intelligent Communication Networks"
+  ],
+  "courses_taught": [
+    "Database Management Systems",
+    "Computer Networks",
+    "Artificial Intelligence",
+    "Data Structures",
+    "C Programming",
+    "Python Programming",
+    "AI Tools",
+    "Data Mining",
+    "Software Engineering",
+    "Mobile Adhoc-Networks"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "November 2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor-II",
+      "organization": "GD Goenka University, Gurgaon, Haryana",
+      "from": "Nov 2024",
+      "to": "Nov 2025"
+    },
+    {
+      "role": "Assistant Professor",
+      "organization": "GITAM (Deemed to be University), Visakhapatnam",
+      "from": "Jun 2018",
+      "to": "Nov 2024"
+    },
+    {
+      "role": "THOTS Skills Trainee",
+      "organization": "Mind Edutainment Pvt. Ltd., New Delhi",
+      "from": "May 2017",
+      "to": "Mar 2018"
+    }
+  ]
+},
+    {
+  "name": "Mr. Paruchuri Satyendra ",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "M.S (Computer Science and Engineering, University of Texas at Arlington, USA, 2024)",
+    "degrees": [
+      "M.S (Computer Science and Engineering, University of Texas at Arlington, USA, 2024)",
+      "B.Tech (Computer Science and Engineering, V R Siddhartha Engineering College, 2021)"
+    ]
+  },
+  "experience": {
+    "total_years": 3,
+    "current_organization_years": 1
+  },
+  "experience_summary": "3 years total experience, 1 years at current organization",
+  "designation": "Assistant Professor",
+  "email": "sparuchuri009@gmail.com",
+  "areas_of_interest": [
+    "Computer Vision",
+    "Machine Learning"
+  ],
+  "courses_taught": [],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College ",
+      "from": "November 2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "AI Engineer",
+      "organization": "ImageVision.ai",
+      "from": "August 2024",
+      "to": "November 2025"
+    },
+    {
+      "role": "Assistant Software Engineer",
+      "organization": "TCS",
+      "from": "July 2021",
+      "to": "April 2022"
+    }
+  ]
+},
+    {
+  "name": "Dr. K. Rama Devi",
+  "department": "Computer Science and Engineering",
+  "qualification": {
+    "highest": "Ph.D (Computer Science and Engineering, VIT-AP University, Colloquium Completed)",
+    "degrees": [
+      "Ph.D (Computer Science and Engineering, VIT-AP University, Colloquium Completed)",
+      "M.Tech (Computer Science and Engineering, Sri Padmavati Mahila Viswa Vidyalayam, 2017)",
+      "B.Tech (Information Technology, Jawaharlal Nehru Technological University, Kakinada, 2015)"
+    ]
+  },
+  "experience": {
+    "total_years": 9,
+    "current_organization_years": 1
+  },
+  "experience_summary": "9 years total experience, 1 years at current organization",
+  "designation": "Assistant Professor",
+  "email": [],
+  "areas_of_interest": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Deep Learning",
+    "Image Processing"
+  ],
+  "courses_taught": [
+    "OOPs through Java",
+    "Data Structures"
+  ],
+  "roles": [
+    {
+      "role": "Assistant Professor",
+      "organization": "Velagapudi Ramakrishna Siddhartha Engineering College",
+      "from": "2025",
+      "to": "Present"
+    }
+  ],
+  "past_experience": [
+    {
+      "role": "Assistant Professor (Contract)",
+      "organization": "VIT-AP University",
+      "from": "2021",
+      "to": "2025"
+    },
+    {
+      "role": "Teaching Assistant",
+      "organization": "VIT-AP University",
+      "from": "2019",
+      "to": "2020"
+    },
+    {
+      "role": "Programmer",
+      "organization": "Microlinks Solutions",
+      "from": "2017",
+      "to": "2019"
+    },
+    {
+      "role": "Intern (Android Developer)",
+      "organization": "Spoors Technology Solutions",
+      "from": "Jan 2017",
+      "to": "Aug 2017"
+    }
+  ]
+}
+   
+]
